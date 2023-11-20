@@ -1,32 +1,52 @@
-# Introduction to CyberSecurity | Úvod do Kybernetickej Bezpečnosti
+# Introduction to CyberSecurity
 
-> Autor: **Ľuboslav Motošický**
+> Author: **Ľuboslav Motošický**
 
-> Organizácia/Škola: **CTU FIT**
+> Organization: **CTU FIT**
 
-> Predmet: **BI-UKB**
+> Subject: **BI-UKB**
 
-## Základné koncepty 
+## Introduction
 
-Repozitár obsahuje materiály, ktoré zahŕňajú základné koncepty v modernej kybernetickej bezpečnosti, vrátane pojmov, ktoré sú kľúčové pre pochopenie tejto oblasti.
+Introduction to Cybersecurity is a subject that provides foundational knowledge about the principles and concepts of cybersecurity. 
 
-## Hrozby v kyberprostore 
+It covers various aspects such as understanding the different types of threats in the cyber environment, the security mechanisms used in networks, operating systems, and applications to enhance security, and the basic legal and regulatory rules related to cybersecurity. 
 
-Repozitár obsahuje informácie o rôznych hrozbách, ktoré existujú v kyberprostredí, vrátane techník, ktoré útočníci používajú na ohrozenie bezpečnosti.
+The subject also provides various resources including presentations, documentation, code examples, and links to further information sources for a deeper understanding of cybersecurity topics. 
 
-## Bezpečnostné mechanizmy 
+The aim of this subject is to enable students and other interested individuals to gain a basic understanding of cybersecurity issues and provide access to useful materials and information related to this field.
 
-Repozitár obsahuje informácie o bezpečnostných mechanizmoch používaných v sieťach, operačných systémoch a aplikáciách na zlepšenie bezpečnosti.
+## Topics Included
 
-## Právne a regulatorné predpisy
+### Threat Modelling
 
-Repozitár poskytuje prehľad o základných právnych a regulatorných predpisoch týkajúcich sa kybernetickej bezpečnosti.
+In the segment dedicated to threat modeling, the emphasis was placed on the development of a secure architecture, the implementation of threat countermeasures, and the subsequent generation of a comprehensive report, tailored to the specific assignment requirements, concerning the security aspects of a web application.
 
-## Mnoho Iného
+Discover more here: 
 
-Repozitár obsahuje rôzne zdroje, vrátane prezentácií, dokumentácie, príkladov kódu a odkazov na ďalšie informačné zdroje, ktoré poskytujú hlbší pohľad do tém kybernetickej bezpečnosti.
+### Risk Management
 
-# Cieľ
+In the Risk Management section, we delved into various security methodologies including, but not limited to, Attack Tree, STRIDE, PASTA, OWASP, and DREAD. The threat model, initially established in the Threat Modelling segment, was revised to incorporate the new ADFS (Active Directory Federation Services) component. Concurrently, threats were re-evaluated and re-assessed in accordance with the STRIDE security model.
 
-Cieľom tohto repozitára je umožniť študentom, ako aj ďalším záujemcom, získať základný pohľad na problematiku kybernetickej bezpečnosti a poskytnúť prístup k užitočným materiálom a informáciám týkajúcim sa tejto oblasti.
+Discover more here: 
+
+### Network Layer Security
+
+In the Network Layer Security segment, the primary focus was on the establishment of a secure network design, complemented by key components integral to network security such as VLAN, Firewall, VPN Tunnel, and DMZ. Additionally, the SIEM solution and IoT security probe were incorporated into the design to facilitate network scanning at the most critical junctures of the network.
+
+Discover more here: 
+
+### Attacks on Web Applications
+
+In the Attacks on Web Applications section, we conducted an assault on a known vulnerable application, specifically the OWASP Juice Shop. This exercise involved the execution of various types of cyber attacks to demonstrate their potential impact and the importance of robust web application security.
+
+Discover more here: 
+
+### Privacy Protection
+
+In the "Privacy Protection" section, we explored topics related to Open Source Intelligence (OSINT). Additionally, a comprehensive report was generated detailing strategies for enhancing personal protection within the context of free internet usage.
+
+Discover more here: 
+
+## Conclusion
 
